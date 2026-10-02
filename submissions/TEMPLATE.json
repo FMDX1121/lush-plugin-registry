@@ -1,0 +1,10 @@
+{
+  "id": "your_plugin_id",
+  "manifest_url": "https://raw.githubusercontent.com/you/repo/main/manifest.json",
+  "download_url": "https://github.com/you/repo/archive/refs/tags/v1.0.0.zip",
+  "homepage": "https://github.com/you/repo",
+  "icon_url": "https://raw.githubusercontent.com/you/repo/main/icon.png",
+  "tags": ["utility"],
+  "submitter": "your-github-username",
+  "note": "简短说明插件功能"
+}
